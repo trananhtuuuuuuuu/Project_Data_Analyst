@@ -1,0 +1,201 @@
+OrderID;OrderDate;CustomerID;Product;Category;Quantity;UnitPrice;TotalAmount
+1000;02/10/2024;16;Coffee Maker;Home Appliances;5;50;250
+1001;27/02/2025;45;Smartphone;Electronics;3;500;1500
+1002;30/01/2025;38;Backpack;Accessories;3;60;180
+1003;26/12/2024;45;Backpack;Accessories;4;60;240
+1004;15/01/2025;9;Smartphone;Electronics;2;500;1000
+1005;12/11/2024;13;Coffee Maker;Home Appliances;5;50;250
+1006;14/02/2025;9;Coffee Maker;Home Appliances;4;50;200
+1007;14/02/2025;43;Headphones;Accessories;1;100;100
+1008;22/03/2025;7;Desk Chair;Furniture;3;200;600
+1009;15/02/2025;6;Desk Lamp;Furniture;1;40;40
+1010;31/12/2024;45;Monitor;Electronics;1;300;300
+1011;22/12/2024;37;Laptop;Electronics;4;800;3200
+1012;01/01/2025;41;Backpack;Accessories;4;60;240
+1013;08/03/2025;3;Coffee Maker;Home Appliances;4;50;200
+1014;18/02/2025;33;Backpack;Accessories;3;60;180
+1015;11/03/2025;29;Desk Lamp;Furniture;3;40;120
+1016;03/11/2024;33;Headphones;Accessories;1;100;100
+1017;14/02/2025;4;Backpack;Accessories;2;60;120
+1018;22/02/2025;44;Backpack;Accessories;5;60;300
+1019;01/11/2024;10;Backpack;Accessories;5;60;300
+1020;13/01/2025;25;Desk Lamp;Furniture;5;40;200
+1021;11/12/2024;50;Headphones;Accessories;4;100;400
+1022;30/03/2025;44;Desk Lamp;Furniture;2;40;80
+1023;18/10/2024;25;Laptop;Electronics;2;800;1600
+1024;28/12/2024;19;Desk Lamp;Furniture;2;40;80
+1025;09/02/2025;22;Desk Chair;Furniture;5;200;1000
+1026;16/03/2025;29;Laptop;Electronics;1;800;800
+1027;01/11/2024;36;Headphones;Accessories;1;100;100
+1028;03/10/2024;31;Coffee Maker;Home Appliances;4;50;200
+1029;31/01/2025;3;Laptop;Electronics;1;800;800
+1030;20/12/2024;35;Coffee Maker;Home Appliances;2;50;100
+1031;02/02/2025;50;Smartphone;Electronics;4;500;2000
+1032;20/01/2025;9;Desk Chair;Furniture;3;200;600
+1033;23/10/2024;46;Coffee Maker;Home Appliances;5;50;250
+1034;26/10/2024;19;Desk Chair;Furniture;1;200;200
+1035;25/03/2025;34;Headphones;Accessories;2;100;200
+1036;21/01/2025;31;Coffee Maker;Home Appliances;4;50;200
+1037;13/12/2024;26;Desk Chair;Furniture;2;200;400
+1038;23/03/2025;33;Smartphone;Electronics;1;500;500
+1039;16/11/2024;34;Headphones;Accessories;2;100;200
+1040;23/01/2025;22;Backpack;Accessories;1;60;60
+1041;19/12/2024;1;Headphones;Accessories;3;100;300
+1042;23/02/2025;48;Coffee Maker;Home Appliances;3;50;150
+1043;29/10/2024;7;Desk Chair;Furniture;2;200;400
+1044;07/11/2024;16;Desk Lamp;Furniture;2;40;80
+1045;24/03/2025;6;Monitor;Electronics;1;300;300
+1046;05/02/2025;1;Desk Chair;Furniture;4;200;800
+1047;09/02/2025;11;Laptop;Electronics;3;800;2400
+1048;27/10/2024;12;Smartphone;Electronics;5;500;2500
+1049;18/11/2024;11;Coffee Maker;Home Appliances;5;50;250
+1050;21/11/2024;17;Coffee Maker;Home Appliances;5;50;250
+1051;31/01/2025;31;Desk Lamp;Furniture;1;40;40
+1052;08/11/2024;15;Desk Chair;Furniture;2;200;400
+1053;10/01/2025;27;Desk Lamp;Furniture;2;40;80
+1054;29/10/2024;20;Coffee Maker;Home Appliances;5;50;250
+1055;15/02/2025;24;Coffee Maker;Home Appliances;2;50;100
+1056;19/03/2025;15;Coffee Maker;Home Appliances;5;50;250
+1057;01/12/2024;35;Desk Lamp;Furniture;1;40;40
+1058;08/03/2025;10;Headphones;Accessories;1;100;100
+1059;01/11/2024;12;Monitor;Electronics;3;300;900
+1060;01/02/2025;13;Backpack;Accessories;4;60;240
+1061;20/03/2025;4;Desk Chair;Furniture;1;200;200
+1062;17/11/2024;34;Coffee Maker;Home Appliances;3;50;150
+1063;05/12/2024;25;Smartphone;Electronics;4;500;2000
+1064;06/03/2025;45;Desk Chair;Furniture;4;200;800
+1065;23/10/2024;6;Monitor;Electronics;3;300;900
+1066;16/01/2025;5;Desk Lamp;Furniture;1;40;40
+1067;11/11/2024;19;Laptop;Electronics;2;800;1600
+1068;21/10/2024;16;Monitor;Electronics;2;300;600
+1069;21/10/2024;6;Smartphone;Electronics;5;500;2500
+1070;29/10/2024;46;Backpack;Accessories;2;60;120
+1071;16/11/2024;47;Laptop;Electronics;4;800;3200
+1072;23/12/2024;8;Headphones;Accessories;4;100;400
+1073;14/12/2024;46;Laptop;Electronics;5;800;4000
+1074;29/11/2024;11;Smartphone;Electronics;4;500;2000
+1075;05/10/2024;42;Coffee Maker;Home Appliances;1;50;50
+1076;20/11/2024;41;Backpack;Accessories;2;60;120
+1077;09/03/2025;48;Desk Chair;Furniture;1;200;200
+1078;12/03/2025;11;Headphones;Accessories;2;100;200
+1079;19/01/2025;11;Desk Chair;Furniture;3;200;600
+1080;23/02/2025;21;Desk Chair;Furniture;5;200;1000
+1081;17/12/2024;1;Desk Chair;Furniture;2;200;400
+1082;29/03/2025;43;Monitor;Electronics;5;300;1500
+1083;06/12/2024;22;Monitor;Electronics;5;300;1500
+1084;22/01/2025;21;Desk Lamp;Furniture;3;40;120
+1085;10/02/2025;8;Backpack;Accessories;2;60;120
+1086;01/11/2024;11;Smartphone;Electronics;1;500;500
+1087;02/10/2024;4;Headphones;Accessories;1;100;100
+1088;14/10/2024;49;Smartphone;Electronics;2;500;1000
+1089;15/10/2024;12;Laptop;Electronics;1;800;800
+1090;17/02/2025;4;Backpack;Accessories;3;60;180
+1091;27/11/2024;1;Coffee Maker;Home Appliances;3;50;150
+1092;06/03/2025;7;Backpack;Accessories;4;60;240
+1093;21/03/2025;39;Backpack;Accessories;3;60;180
+1094;30/11/2024;8;Backpack;Accessories;4;60;240
+1095;12/12/2024;20;Backpack;Accessories;4;60;240
+1096;02/03/2025;26;Desk Chair;Furniture;2;200;400
+1097;14/10/2024;12;Headphones;Accessories;5;100;500
+1098;01/01/2025;38;Desk Chair;Furniture;3;200;600
+1099;12/03/2025;1;Monitor;Electronics;5;300;1500
+1100;22/11/2024;41;Backpack;Accessories;5;60;300
+1101;18/10/2024;20;Laptop;Electronics;3;800;2400
+1102;31/03/2025;50;Desk Lamp;Furniture;4;40;160
+1103;07/02/2025;9;Laptop;Electronics;4;800;3200
+1104;21/11/2024;9;Coffee Maker;Home Appliances;3;50;150
+1105;24/10/2024;28;Smartphone;Electronics;5;500;2500
+1106;11/03/2025;18;Monitor;Electronics;4;300;1200
+1107;25/02/2025;3;Desk Chair;Furniture;1;200;200
+1108;10/11/2024;20;Desk Chair;Furniture;2;200;400
+1109;23/11/2024;49;Backpack;Accessories;5;60;300
+1110;28/03/2025;38;Backpack;Accessories;3;60;180
+1111;07/01/2025;19;Monitor;Electronics;2;300;600
+1112;06/02/2025;6;Laptop;Electronics;5;800;4000
+1113;18/01/2025;40;Desk Chair;Furniture;1;200;200
+1114;10/02/2025;46;Headphones;Accessories;1;100;100
+1115;02/02/2025;8;Monitor;Electronics;3;300;900
+1116;16/01/2025;13;Coffee Maker;Home Appliances;2;50;100
+1117;18/01/2025;5;Smartphone;Electronics;5;500;2500
+1118;30/03/2025;3;Headphones;Accessories;1;100;100
+1119;28/11/2024;12;Monitor;Electronics;1;300;300
+1120;06/11/2024;48;Headphones;Accessories;5;100;500
+1121;12/12/2024;17;Desk Chair;Furniture;3;200;600
+1122;29/10/2024;13;Desk Chair;Furniture;5;200;1000
+1123;05/12/2024;35;Desk Lamp;Furniture;4;40;160
+1124;10/12/2024;41;Desk Chair;Furniture;1;200;200
+1125;14/01/2025;4;Backpack;Accessories;3;60;180
+1126;04/10/2024;33;Monitor;Electronics;5;300;1500
+1127;04/11/2024;4;Desk Lamp;Furniture;2;40;80
+1128;14/03/2025;42;Desk Lamp;Furniture;2;40;80
+1129;22/03/2025;30;Desk Lamp;Furniture;4;40;160
+1130;13/01/2025;44;Desk Chair;Furniture;2;200;400
+1131;28/01/2025;21;Smartphone;Electronics;4;500;2000
+1132;25/10/2024;4;Coffee Maker;Home Appliances;1;50;50
+1133;28/02/2025;36;Smartphone;Electronics;3;500;1500
+1134;22/11/2024;6;Desk Lamp;Furniture;1;40;40
+1135;31/03/2025;7;Laptop;Electronics;1;800;800
+1136;08/03/2025;22;Desk Lamp;Furniture;3;40;120
+1137;14/02/2025;36;Smartphone;Electronics;5;500;2500
+1138;03/01/2025;3;Desk Chair;Furniture;4;200;800
+1139;27/11/2024;17;Headphones;Accessories;4;100;400
+1140;02/10/2024;4;Desk Chair;Furniture;4;200;800
+1141;07/10/2024;34;Monitor;Electronics;2;300;600
+1142;14/10/2024;5;Coffee Maker;Home Appliances;3;50;150
+1143;24/02/2025;21;Desk Chair;Furniture;2;200;400
+1144;21/10/2024;26;Desk Chair;Furniture;1;200;200
+1145;23/01/2025;42;Desk Lamp;Furniture;1;40;40
+1146;09/03/2025;31;Laptop;Electronics;1;800;800
+1147;02/11/2024;19;Backpack;Accessories;3;60;180
+1148;05/11/2024;43;Desk Chair;Furniture;1;200;200
+1149;05/03/2025;12;Desk Chair;Furniture;2;200;400
+1150;15/02/2025;49;Backpack;Accessories;3;60;180
+1151;17/10/2024;8;Desk Lamp;Furniture;3;40;120
+1152;12/10/2024;9;Monitor;Electronics;1;300;300
+1153;03/03/2025;10;Headphones;Accessories;2;100;200
+1154;22/12/2024;47;Desk Chair;Furniture;1;200;200
+1155;02/11/2024;30;Backpack;Accessories;4;60;240
+1156;19/03/2025;3;Backpack;Accessories;1;60;60
+1157;12/03/2025;44;Laptop;Electronics;2;800;1600
+1158;13/02/2025;50;Coffee Maker;Home Appliances;5;50;250
+1159;11/03/2025;40;Smartphone;Electronics;2;500;1000
+1160;25/03/2025;39;Desk Chair;Furniture;2;200;400
+1161;19/03/2025;9;Headphones;Accessories;1;100;100
+1162;12/03/2025;21;Backpack;Accessories;1;60;60
+1163;14/11/2024;11;Headphones;Accessories;1;100;100
+1164;25/01/2025;28;Desk Lamp;Furniture;1;40;40
+1165;18/10/2024;21;Smartphone;Electronics;2;500;1000
+1166;27/11/2024;26;Headphones;Accessories;4;100;400
+1167;08/11/2024;48;Coffee Maker;Home Appliances;4;50;200
+1168;09/10/2024;42;Smartphone;Electronics;5;500;2500
+1169;23/12/2024;42;Backpack;Accessories;2;60;120
+1170;27/01/2025;7;Desk Chair;Furniture;4;200;800
+1171;01/04/2025;27;Smartphone;Electronics;2;500;1000
+1172;20/01/2025;26;Desk Chair;Furniture;1;200;200
+1173;14/03/2025;32;Backpack;Accessories;3;60;180
+1174;08/11/2024;1;Headphones;Accessories;2;100;200
+1175;19/12/2024;15;Coffee Maker;Home Appliances;1;50;50
+1176;04/10/2024;38;Headphones;Accessories;5;100;500
+1177;09/02/2025;18;Headphones;Accessories;2;100;200
+1178;09/10/2024;30;Backpack;Accessories;1;60;60
+1179;24/12/2024;5;Monitor;Electronics;3;300;900
+1180;18/02/2025;26;Desk Lamp;Furniture;1;40;40
+1181;30/11/2024;8;Headphones;Accessories;2;100;200
+1182;10/10/2024;14;Smartphone;Electronics;4;500;2000
+1183;12/03/2025;34;Coffee Maker;Home Appliances;1;50;50
+1184;23/03/2025;43;Desk Chair;Furniture;4;200;800
+1185;19/02/2025;12;Headphones;Accessories;1;100;100
+1186;20/03/2025;10;Headphones;Accessories;2;100;200
+1187;16/03/2025;2;Backpack;Accessories;3;60;180
+1188;27/12/2024;30;Backpack;Accessories;1;60;60
+1189;15/12/2024;21;Monitor;Electronics;1;300;300
+1190;20/12/2024;48;Headphones;Accessories;3;100;300
+1191;18/03/2025;27;Headphones;Accessories;3;100;300
+1192;24/12/2024;11;Desk Chair;Furniture;2;200;400
+1193;10/10/2024;28;Smartphone;Electronics;3;500;1500
+1194;14/11/2024;21;Desk Lamp;Furniture;2;40;80
+1195;10/01/2025;18;Smartphone;Electronics;4;500;2000
+1196;05/03/2025;29;Coffee Maker;Home Appliances;2;50;100
+1197;05/03/2025;38;Laptop;Electronics;2;800;1600
+1198;15/11/2024;24;Backpack;Accessories;3;60;180
+1199;19/03/2025;47;Coffee Maker;Home Appliances;2;50;100
